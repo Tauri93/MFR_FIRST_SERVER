@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "FIRST_INSTALL_SERVER",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MFR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
